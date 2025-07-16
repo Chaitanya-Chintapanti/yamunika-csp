@@ -1,1 +1,1 @@
-# yamunika-csp
+# inter-diploma
